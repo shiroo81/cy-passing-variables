@@ -1,0 +1,19 @@
+{
+  "name": "cy-passing-variables",
+  "version": "1.0.0",
+  "description": "demo project cy.task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "task"
+  ],
+  "author": "pauldewitt",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.16.1",
+    "typescript": "^5.7.2"
+  }
+}
